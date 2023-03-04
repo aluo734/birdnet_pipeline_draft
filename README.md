@@ -1,4 +1,4 @@
-*If you want to detect species and make plots for species presence over time (within recordings)*
+**If you want to detect species and make plots for species presence over time (within recordings)**
 
 1. Download BirdNet-Analyzer from GitHub (https://github.com/kahst/BirdNET-Analyzer) and add that to this directory
 2. Add mp3 or wav files to the included subdirectory "input_recordings"
